@@ -36,7 +36,7 @@ function redhawk_banner(){
   ██║  ██║███████╗██████╔╝   ###     ###   @@@     @@@     \      \/      /    |   |\   \
   ╚═╝  ╚═╝╚══════╝╚═════╝    ###     ###   @@@     @@@      \____/\/\____/     |___| \___\
                                                                 |0\/0|
-         {C} Coded By - R3D#@X0R_2H1N A.K.A Tuhinshubhra         \/\/
+         {C} Modified By - MD.Sirajul Islam                      \/\/
                                                                   \/ \e[97m [$] Shout Out - You ;)
 \e[32m
   \n";
