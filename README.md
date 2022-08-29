@@ -21,4 +21,4 @@ git clone https://github.com/sirajul26/RED.HAWK
 cd RED.HAWK
 
 
-php rhawk.php
+php RED.HAWK.php
