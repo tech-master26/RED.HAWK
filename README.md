@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F90355&size=27&lines=𝓜𝓓-𝓢𝓘𝓡𝓐𝓙𝓤𝓛-𝓘𝓢𝓛𝓐𝓜;+𝕚𝕋'𝕊+ℕ𝕠𝕥+𝕁𝕦𝕤𝕥+𝕄𝕪+ℕ𝕒𝕞𝕖;★彡[ɪᴛ'ꜱ+ᴀ+ʙʀᴀɴᴅ]彡★)](https://git.io/typing-svg) 
-	
+	#About Myself
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F90355&size=27&lines=𝓜𝓓-𝓢𝓘𝓡𝓐𝓙𝓤𝓛-𝓘𝓢𝓛𝓐𝓜;+𝕚𝕋'𝕊+ℕ𝕠𝕥+𝕁𝕦𝕤𝕥+𝕄𝕪+ℕ𝕒𝕞𝕖;★彡[ɪᴛ'ꜱ+ᴀ+ʙʀᴀɴᴅ]彡★)](https://git.io/typing-svg) 
+
 </p>
 RED.HAWK
 
