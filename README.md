@@ -9,7 +9,7 @@
 
 ## RED.HAWK
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2308f9f2&size=27&lines=Red Hawk tool is best information gathering tool for website. With the help of this tool you can scan websites and gather information.)](https://git.io/typing-svg) 
+Red Hawk tool is best information gathering tool for website. With the help of this tool you can scan websites and gather information.
 
 Installation Commands
 
