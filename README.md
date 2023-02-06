@@ -1,6 +1,6 @@
 # RED.HAWK
 <p align="center">
-	<img src="https://i.imgur.com/GNWwMFb.png" width="300px">
+	<img src="https://i.imgur.com/GNWwMFb.png" width="400px">
 </p>
 
 # About Myself
